@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EKHApcGaHE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeerawut.j\\source\\repos\\Template.Service\\Template.Service.Domain\\Template.Service.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.dev-backend/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
